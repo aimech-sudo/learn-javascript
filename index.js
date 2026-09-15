@@ -72,3 +72,5 @@ const sum = add(10, 20)
 console.log("🚀 ~ sum:",sum)
 
 console.log("doubleSum", doubleSum(sum))
+
+
